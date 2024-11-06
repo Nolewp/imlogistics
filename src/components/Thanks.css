@@ -1,0 +1,41 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100vw;
+    
+}
+
+#thank-you {
+    text-align: center;
+    max-width: 600px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#thank-you h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+#thank-you p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.link {
+    font-size: 16px;
+    color: #0073e6;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
