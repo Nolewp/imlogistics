@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/imlogistics/static/css/main.b12e89a9.css",
+    "main.js": "/imlogistics/static/js/main.dccfd4ae.js",
+    "static/js/453.6b4baf43.chunk.js": "/imlogistics/static/js/453.6b4baf43.chunk.js",
+    "static/media/ChicagoSkyline2.jpeg": "/imlogistics/static/media/ChicagoSkyline2.3eab471947ffd3e20a54.jpeg",
+    "static/media/im.jpg": "/imlogistics/static/media/im.91c13f7859b0e10e5b5c.jpg",
+    "index.html": "/imlogistics/index.html",
+    "main.b12e89a9.css.map": "/imlogistics/static/css/main.b12e89a9.css.map",
+    "main.dccfd4ae.js.map": "/imlogistics/static/js/main.dccfd4ae.js.map",
+    "453.6b4baf43.chunk.js.map": "/imlogistics/static/js/453.6b4baf43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b12e89a9.css",
+    "static/js/main.dccfd4ae.js"
+  ]
+}
